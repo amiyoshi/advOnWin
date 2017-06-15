@@ -1,2 +1,2 @@
 # advOnWin
-advOnWin data.
+ADVENTURE_on_Windows sample data.
